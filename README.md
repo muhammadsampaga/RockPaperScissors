@@ -1,2 +1,2 @@
 # RockPaperScissor
-Playing Rock, Paper and Scissor Using Image Recognition
+Rock-Paper-Scissors Image Classification Using CNN
