@@ -1,2 +1,2 @@
 # RockPaperScissor
-Playing Rock, Paper and Scissor with Machine Learning
+Playing Rock, Paper and Scissor Using Image Recognition
